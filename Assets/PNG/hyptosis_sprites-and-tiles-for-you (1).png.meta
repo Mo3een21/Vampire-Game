@@ -1,0 +1,4290 @@
+fileFormatVersion: 2
+guid: c58bf156a950f314cb276e95740765ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8896081368797788207
+    second: hyptosis_sprites-and-tiles-for-you (1)_0
+  - first:
+      213: -4722296434207050952
+    second: hyptosis_sprites-and-tiles-for-you (1)_1
+  - first:
+      213: 8720492024907763522
+    second: hyptosis_sprites-and-tiles-for-you (1)_2
+  - first:
+      213: -3970018983482842277
+    second: hyptosis_sprites-and-tiles-for-you (1)_3
+  - first:
+      213: -4984241216107418962
+    second: hyptosis_sprites-and-tiles-for-you (1)_4
+  - first:
+      213: 5560752868019690562
+    second: hyptosis_sprites-and-tiles-for-you (1)_5
+  - first:
+      213: 8109461263639202025
+    second: hyptosis_sprites-and-tiles-for-you (1)_6
+  - first:
+      213: -734651825368570214
+    second: hyptosis_sprites-and-tiles-for-you (1)_7
+  - first:
+      213: -4744254403644682019
+    second: hyptosis_sprites-and-tiles-for-you (1)_8
+  - first:
+      213: 7174509456230686123
+    second: hyptosis_sprites-and-tiles-for-you (1)_9
+  - first:
+      213: 94616176606939299
+    second: hyptosis_sprites-and-tiles-for-you (1)_10
+  - first:
+      213: 3873182257306299650
+    second: hyptosis_sprites-and-tiles-for-you (1)_11
+  - first:
+      213: -3873599361594246534
+    second: hyptosis_sprites-and-tiles-for-you (1)_12
+  - first:
+      213: -4204768881276524895
+    second: hyptosis_sprites-and-tiles-for-you (1)_13
+  - first:
+      213: -6251149214886512779
+    second: hyptosis_sprites-and-tiles-for-you (1)_14
+  - first:
+      213: -5757667299509181167
+    second: hyptosis_sprites-and-tiles-for-you (1)_15
+  - first:
+      213: -3699364797640551443
+    second: hyptosis_sprites-and-tiles-for-you (1)_16
+  - first:
+      213: -3031256130852140161
+    second: hyptosis_sprites-and-tiles-for-you (1)_17
+  - first:
+      213: 4111764231739692542
+    second: hyptosis_sprites-and-tiles-for-you (1)_18
+  - first:
+      213: -2219341945878977180
+    second: hyptosis_sprites-and-tiles-for-you (1)_19
+  - first:
+      213: -8785656291716150108
+    second: hyptosis_sprites-and-tiles-for-you (1)_20
+  - first:
+      213: 7101165852899808461
+    second: hyptosis_sprites-and-tiles-for-you (1)_21
+  - first:
+      213: 3923092837053228844
+    second: hyptosis_sprites-and-tiles-for-you (1)_22
+  - first:
+      213: -9135800627652239254
+    second: hyptosis_sprites-and-tiles-for-you (1)_23
+  - first:
+      213: 1767768898059187981
+    second: hyptosis_sprites-and-tiles-for-you (1)_24
+  - first:
+      213: 9049383346040109685
+    second: hyptosis_sprites-and-tiles-for-you (1)_25
+  - first:
+      213: -8882930340360685223
+    second: hyptosis_sprites-and-tiles-for-you (1)_26
+  - first:
+      213: 3487383421752576450
+    second: hyptosis_sprites-and-tiles-for-you (1)_27
+  - first:
+      213: 8536019984511969328
+    second: hyptosis_sprites-and-tiles-for-you (1)_28
+  - first:
+      213: 3658682479160225204
+    second: hyptosis_sprites-and-tiles-for-you (1)_29
+  - first:
+      213: -419050167366525680
+    second: hyptosis_sprites-and-tiles-for-you (1)_30
+  - first:
+      213: -3647488321519252725
+    second: hyptosis_sprites-and-tiles-for-you (1)_31
+  - first:
+      213: 535154297018593467
+    second: hyptosis_sprites-and-tiles-for-you (1)_32
+  - first:
+      213: 8402277280238745554
+    second: hyptosis_sprites-and-tiles-for-you (1)_33
+  - first:
+      213: 896665588613220040
+    second: hyptosis_sprites-and-tiles-for-you (1)_34
+  - first:
+      213: -1673322398548003154
+    second: hyptosis_sprites-and-tiles-for-you (1)_35
+  - first:
+      213: -5891434318018961078
+    second: hyptosis_sprites-and-tiles-for-you (1)_36
+  - first:
+      213: 2626535792039498312
+    second: hyptosis_sprites-and-tiles-for-you (1)_37
+  - first:
+      213: 3367329898227746697
+    second: hyptosis_sprites-and-tiles-for-you (1)_38
+  - first:
+      213: 4843010004272691864
+    second: hyptosis_sprites-and-tiles-for-you (1)_39
+  - first:
+      213: -6384785703473453272
+    second: hyptosis_sprites-and-tiles-for-you (1)_40
+  - first:
+      213: -1840365867792238256
+    second: hyptosis_sprites-and-tiles-for-you (1)_41
+  - first:
+      213: -3689258581080693037
+    second: hyptosis_sprites-and-tiles-for-you (1)_42
+  - first:
+      213: 6740743720379672382
+    second: hyptosis_sprites-and-tiles-for-you (1)_43
+  - first:
+      213: -465170591861073440
+    second: hyptosis_sprites-and-tiles-for-you (1)_44
+  - first:
+      213: -4617581931807671489
+    second: hyptosis_sprites-and-tiles-for-you (1)_45
+  - first:
+      213: -6582120460002322625
+    second: hyptosis_sprites-and-tiles-for-you (1)_46
+  - first:
+      213: -1329244929870703825
+    second: hyptosis_sprites-and-tiles-for-you (1)_47
+  - first:
+      213: -3226773543292464043
+    second: hyptosis_sprites-and-tiles-for-you (1)_48
+  - first:
+      213: 132228842321587403
+    second: hyptosis_sprites-and-tiles-for-you (1)_49
+  - first:
+      213: -1659991265307516055
+    second: hyptosis_sprites-and-tiles-for-you (1)_50
+  - first:
+      213: -370129263677291531
+    second: hyptosis_sprites-and-tiles-for-you (1)_51
+  - first:
+      213: 5850388696423317535
+    second: hyptosis_sprites-and-tiles-for-you (1)_52
+  - first:
+      213: 7874005290971174936
+    second: hyptosis_sprites-and-tiles-for-you (1)_53
+  - first:
+      213: -7276163810203798846
+    second: hyptosis_sprites-and-tiles-for-you (1)_54
+  - first:
+      213: -6324817556751375959
+    second: hyptosis_sprites-and-tiles-for-you (1)_55
+  - first:
+      213: -393969048581442736
+    second: hyptosis_sprites-and-tiles-for-you (1)_56
+  - first:
+      213: 4449907940238575593
+    second: hyptosis_sprites-and-tiles-for-you (1)_57
+  - first:
+      213: -5631492791453110632
+    second: hyptosis_sprites-and-tiles-for-you (1)_58
+  - first:
+      213: -8988096463789725801
+    second: hyptosis_sprites-and-tiles-for-you (1)_59
+  - first:
+      213: -8343499111327803737
+    second: hyptosis_sprites-and-tiles-for-you (1)_60
+  - first:
+      213: -3018577768536218913
+    second: hyptosis_sprites-and-tiles-for-you (1)_61
+  - first:
+      213: -2247094330880506415
+    second: hyptosis_sprites-and-tiles-for-you (1)_62
+  - first:
+      213: 628548598966773812
+    second: hyptosis_sprites-and-tiles-for-you (1)_63
+  - first:
+      213: -5908748470699135953
+    second: hyptosis_sprites-and-tiles-for-you (1)_64
+  - first:
+      213: 578127141350953532
+    second: hyptosis_sprites-and-tiles-for-you (1)_65
+  - first:
+      213: 795262381750185963
+    second: hyptosis_sprites-and-tiles-for-you (1)_66
+  - first:
+      213: -7762287525741049585
+    second: hyptosis_sprites-and-tiles-for-you (1)_67
+  - first:
+      213: 1608111783654120272
+    second: hyptosis_sprites-and-tiles-for-you (1)_68
+  - first:
+      213: -6035662240359198300
+    second: hyptosis_sprites-and-tiles-for-you (1)_69
+  - first:
+      213: -5384225954092100636
+    second: hyptosis_sprites-and-tiles-for-you (1)_70
+  - first:
+      213: -5456645119572866892
+    second: hyptosis_sprites-and-tiles-for-you (1)_71
+  - first:
+      213: 3855797908194888708
+    second: hyptosis_sprites-and-tiles-for-you (1)_72
+  - first:
+      213: 1759677088412642933
+    second: hyptosis_sprites-and-tiles-for-you (1)_73
+  - first:
+      213: 1574317351086500146
+    second: hyptosis_sprites-and-tiles-for-you (1)_74
+  - first:
+      213: 4154060000907468317
+    second: hyptosis_sprites-and-tiles-for-you (1)_75
+  - first:
+      213: -3027897560374822927
+    second: hyptosis_sprites-and-tiles-for-you (1)_76
+  - first:
+      213: 3263528321553238215
+    second: hyptosis_sprites-and-tiles-for-you (1)_77
+  - first:
+      213: -8687581167063089262
+    second: hyptosis_sprites-and-tiles-for-you (1)_78
+  - first:
+      213: 874732409373811999
+    second: hyptosis_sprites-and-tiles-for-you (1)_79
+  - first:
+      213: 7543893642164758812
+    second: hyptosis_sprites-and-tiles-for-you (1)_80
+  - first:
+      213: 3361050117894896023
+    second: hyptosis_sprites-and-tiles-for-you (1)_81
+  - first:
+      213: 2198819753625311342
+    second: hyptosis_sprites-and-tiles-for-you (1)_82
+  - first:
+      213: 4946377158404633346
+    second: hyptosis_sprites-and-tiles-for-you (1)_83
+  - first:
+      213: 4144348288337698946
+    second: hyptosis_sprites-and-tiles-for-you (1)_84
+  - first:
+      213: -8537779120785112517
+    second: hyptosis_sprites-and-tiles-for-you (1)_85
+  - first:
+      213: -616498231606065613
+    second: hyptosis_sprites-and-tiles-for-you (1)_86
+  - first:
+      213: -1923113078246225516
+    second: hyptosis_sprites-and-tiles-for-you (1)_87
+  - first:
+      213: 5504362535851844782
+    second: hyptosis_sprites-and-tiles-for-you (1)_88
+  - first:
+      213: -7794045539849235045
+    second: hyptosis_sprites-and-tiles-for-you (1)_89
+  - first:
+      213: -6323455226941665900
+    second: hyptosis_sprites-and-tiles-for-you (1)_90
+  - first:
+      213: -7660066165007842303
+    second: hyptosis_sprites-and-tiles-for-you (1)_91
+  - first:
+      213: 4352654964132233826
+    second: hyptosis_sprites-and-tiles-for-you (1)_92
+  - first:
+      213: -2984816978638531505
+    second: hyptosis_sprites-and-tiles-for-you (1)_93
+  - first:
+      213: 6601451002660636766
+    second: hyptosis_sprites-and-tiles-for-you (1)_94
+  - first:
+      213: -329116849076413138
+    second: hyptosis_sprites-and-tiles-for-you (1)_95
+  - first:
+      213: -5071704074289772835
+    second: hyptosis_sprites-and-tiles-for-you (1)_96
+  - first:
+      213: -8883206188297769983
+    second: hyptosis_sprites-and-tiles-for-you (1)_97
+  - first:
+      213: 2940202122977307199
+    second: hyptosis_sprites-and-tiles-for-you (1)_98
+  - first:
+      213: 7755189781007538074
+    second: hyptosis_sprites-and-tiles-for-you (1)_99
+  - first:
+      213: -2751752135875165549
+    second: hyptosis_sprites-and-tiles-for-you (1)_100
+  - first:
+      213: -1427373188452667794
+    second: hyptosis_sprites-and-tiles-for-you (1)_101
+  - first:
+      213: 769870708961797942
+    second: hyptosis_sprites-and-tiles-for-you (1)_102
+  - first:
+      213: -3376293406644789457
+    second: hyptosis_sprites-and-tiles-for-you (1)_103
+  - first:
+      213: 5034630857941259604
+    second: hyptosis_sprites-and-tiles-for-you (1)_104
+  - first:
+      213: 3715541714665298183
+    second: hyptosis_sprites-and-tiles-for-you (1)_105
+  - first:
+      213: -4555035000432181541
+    second: hyptosis_sprites-and-tiles-for-you (1)_106
+  - first:
+      213: -1704653552473659983
+    second: hyptosis_sprites-and-tiles-for-you (1)_107
+  - first:
+      213: -342120701190737490
+    second: hyptosis_sprites-and-tiles-for-you (1)_108
+  - first:
+      213: -9053132278551715959
+    second: hyptosis_sprites-and-tiles-for-you (1)_109
+  - first:
+      213: -8626545489387075720
+    second: hyptosis_sprites-and-tiles-for-you (1)_110
+  - first:
+      213: -1459351025373327406
+    second: hyptosis_sprites-and-tiles-for-you (1)_111
+  - first:
+      213: -333630314218341872
+    second: hyptosis_sprites-and-tiles-for-you (1)_112
+  - first:
+      213: 5569010032108425591
+    second: hyptosis_sprites-and-tiles-for-you (1)_113
+  - first:
+      213: -5453612062575872178
+    second: hyptosis_sprites-and-tiles-for-you (1)_114
+  - first:
+      213: 1592472073738201909
+    second: hyptosis_sprites-and-tiles-for-you (1)_115
+  - first:
+      213: 1729890152302586554
+    second: hyptosis_sprites-and-tiles-for-you (1)_116
+  - first:
+      213: -6033635126273336107
+    second: hyptosis_sprites-and-tiles-for-you (1)_117
+  - first:
+      213: 2542554874448200502
+    second: hyptosis_sprites-and-tiles-for-you (1)_118
+  - first:
+      213: -2840835997198523245
+    second: hyptosis_sprites-and-tiles-for-you (1)_119
+  - first:
+      213: -4690119273529666525
+    second: hyptosis_sprites-and-tiles-for-you (1)_120
+  - first:
+      213: -2908304101439218825
+    second: hyptosis_sprites-and-tiles-for-you (1)_121
+  - first:
+      213: -3186522739077594379
+    second: hyptosis_sprites-and-tiles-for-you (1)_122
+  - first:
+      213: 504152717480777763
+    second: hyptosis_sprites-and-tiles-for-you (1)_123
+  - first:
+      213: -1522267743305029538
+    second: hyptosis_sprites-and-tiles-for-you (1)_124
+  - first:
+      213: 946941267368003008
+    second: hyptosis_sprites-and-tiles-for-you (1)_125
+  - first:
+      213: -4446198924402368581
+    second: hyptosis_sprites-and-tiles-for-you (1)_126
+  - first:
+      213: 8488622660000748440
+    second: hyptosis_sprites-and-tiles-for-you (1)_127
+  - first:
+      213: -7297000302286337531
+    second: hyptosis_sprites-and-tiles-for-you (1)_128
+  - first:
+      213: -6460852347894375414
+    second: hyptosis_sprites-and-tiles-for-you (1)_129
+  - first:
+      213: -4037393784042677759
+    second: hyptosis_sprites-and-tiles-for-you (1)_130
+  - first:
+      213: -6463424328418872808
+    second: hyptosis_sprites-and-tiles-for-you (1)_131
+  - first:
+      213: -3040813473141985046
+    second: hyptosis_sprites-and-tiles-for-you (1)_132
+  - first:
+      213: 6910083025774317497
+    second: hyptosis_sprites-and-tiles-for-you (1)_133
+  - first:
+      213: -6131136282112394106
+    second: hyptosis_sprites-and-tiles-for-you (1)_134
+  - first:
+      213: 4133692662712225870
+    second: hyptosis_sprites-and-tiles-for-you (1)_135
+  - first:
+      213: 7607623296034736316
+    second: hyptosis_sprites-and-tiles-for-you (1)_136
+  - first:
+      213: 3527676337493785302
+    second: hyptosis_sprites-and-tiles-for-you (1)_137
+  - first:
+      213: -4629099038577747584
+    second: hyptosis_sprites-and-tiles-for-you (1)_138
+  - first:
+      213: 8598008555538055339
+    second: hyptosis_sprites-and-tiles-for-you (1)_139
+  - first:
+      213: -5032549438415151958
+    second: hyptosis_sprites-and-tiles-for-you (1)_140
+  - first:
+      213: -4525948476926156709
+    second: hyptosis_sprites-and-tiles-for-you (1)_141
+  - first:
+      213: -1846305674988831602
+    second: hyptosis_sprites-and-tiles-for-you (1)_142
+  - first:
+      213: 4464508359826756849
+    second: hyptosis_sprites-and-tiles-for-you (1)_143
+  - first:
+      213: 1263770735108266071
+    second: hyptosis_sprites-and-tiles-for-you (1)_144
+  - first:
+      213: 9004904034480742636
+    second: hyptosis_sprites-and-tiles-for-you (1)_145
+  - first:
+      213: 218352890730056980
+    second: hyptosis_sprites-and-tiles-for-you (1)_146
+  - first:
+      213: -1865841255083514081
+    second: hyptosis_sprites-and-tiles-for-you (1)_147
+  - first:
+      213: -5062473473403918910
+    second: hyptosis_sprites-and-tiles-for-you (1)_148
+  - first:
+      213: -31853409996220045
+    second: hyptosis_sprites-and-tiles-for-you (1)_149
+  - first:
+      213: 8117384910710388039
+    second: hyptosis_sprites-and-tiles-for-you (1)_150
+  - first:
+      213: 2078184553044978938
+    second: hyptosis_sprites-and-tiles-for-you (1)_151
+  - first:
+      213: 6232242291752790270
+    second: hyptosis_sprites-and-tiles-for-you (1)_152
+  - first:
+      213: 3070989653641162621
+    second: hyptosis_sprites-and-tiles-for-you (1)_153
+  - first:
+      213: -1622817206939633843
+    second: hyptosis_sprites-and-tiles-for-you (1)_154
+  - first:
+      213: -4546709624543579524
+    second: hyptosis_sprites-and-tiles-for-you (1)_155
+  - first:
+      213: -887197666832970936
+    second: hyptosis_sprites-and-tiles-for-you (1)_156
+  - first:
+      213: -632036997224818753
+    second: hyptosis_sprites-and-tiles-for-you (1)_157
+  - first:
+      213: 8439797536132757949
+    second: hyptosis_sprites-and-tiles-for-you (1)_158
+  - first:
+      213: -8191812448052532073
+    second: hyptosis_sprites-and-tiles-for-you (1)_159
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 862
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d746d7e025ca8480800000000000000
+      internalID: -8896081368797788207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 860
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833bef2b968077eb0800000000000000
+      internalID: -4722296434207050952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 856
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f01432b49650970800000000000000
+      internalID: 8720492024907763522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 855
+        width: 123
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53a2f1c4c8a7e8c0800000000000000
+      internalID: -3970018983482842277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 856
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa6e07850b64dab0800000000000000
+      internalID: -4984241216107418962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 857
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c5c067543cb2d40800000000000000
+      internalID: 5560752868019690562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 857
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84103bd089a8070800000000000000
+      internalID: 8109461263639202025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 855
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a966053ae0efdc5f0800000000000000
+      internalID: -734651825368570214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 856
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd01daa81c5092eb0800000000000000
+      internalID: -4744254403644682019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_9
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 863
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad9f48965af09360800000000000000
+      internalID: 7174509456230686123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_10
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 813
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a889ac49e4205100800000000000000
+      internalID: 94616176606939299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 856
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6615fdbe40c530800000000000000
+      internalID: 3873182257306299650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 813
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7abef167e53e3ac0800000000000000
+      internalID: -3873599361594246534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 810
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a665e4faf8a5a5c0800000000000000
+      internalID: -4204768881276524895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 806
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5773ab8b8e47f39a0800000000000000
+      internalID: -6251149214886512779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 813
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1156fd5b818a810b0800000000000000
+      internalID: -5757667299509181167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 806
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3dc0e015739acc0800000000000000
+      internalID: -3699364797640551443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 806
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b4559fb90dee5d0800000000000000
+      internalID: -3031256130852140161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_18
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 746
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef55001a8cbef0930800000000000000
+      internalID: 4111764231739692542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 746
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46562c042405331e0800000000000000
+      internalID: -2219341945878977180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 779
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac459da624131680800000000000000
+      internalID: -8785656291716150108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 780
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41a3938b86c8260800000000000000
+      internalID: 7101165852899808461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 783
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27ef6d5620a17630800000000000000
+      internalID: 3923092837053228844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 778
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a606ff19bbd173180800000000000000
+      internalID: -9135800627652239254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 775
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d073dcd5270688810800000000000000
+      internalID: 1767768898059187981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 775
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a7e01253ed59d70800000000000000
+      internalID: 9049383346040109685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 774
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959f2425bed79b480800000000000000
+      internalID: -8882930340360685223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 776
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c90621cebca56030800000000000000
+      internalID: 3487383421752576450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 776
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038a87c33f8067670800000000000000
+      internalID: 8536019984511969328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 778
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd6a4c845046c230800000000000000
+      internalID: 3658682479160225204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 779
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ddc0fc71c3f2af0800000000000000
+      internalID: -419050167366525680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 776
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b857162b4816dc0800000000000000
+      internalID: -3647488321519252725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 777
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb031dd6fff3d6700800000000000000
+      internalID: 535154297018593467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_33
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 774
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d737f05ba2ea9470800000000000000
+      internalID: 8402277280238745554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 744
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c68b932a98917c00800000000000000
+      internalID: 896665588613220040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 743
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea677d7e42a27c8e0800000000000000
+      internalID: -1673322398548003154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_36
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 679
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412fe0b3bb6d3ea0800000000000000
+      internalID: -5891434318018961078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_37
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 709
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8421d5a0364537420800000000000000
+      internalID: 2626535792039498312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_38
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 681
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ca6993b82bbe20800000000000000
+      internalID: 3367329898227746697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 717
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a365480f3d53340800000000000000
+      internalID: 4843010004272691864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 716
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827e8711b3fa467a0800000000000000
+      internalID: -6384785703473453272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 716
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0597d717ef4b576e0800000000000000
+      internalID: -1840365867792238256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 711
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6af16fdde1dccc0800000000000000
+      internalID: -3689258581080693037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 730
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37ec2f13beeb8d50800000000000000
+      internalID: 6740743720379672382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 730
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e99920bfc16b89f0800000000000000
+      internalID: -465170591861073440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_45
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 726
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b7751b2bd0befb0800000000000000
+      internalID: -4617581931807671489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_46
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 712
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f371bb0b05c97a4a0800000000000000
+      internalID: -6582120460002322625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23519767c29d8de0800000000000000
+      internalID: -1329244929870703825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5549c6dfe823833d0800000000000000
+      internalID: -3226773543292464043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcca3a77e65c5d100800000000000000
+      internalID: 132228842321587403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_50
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963281d3db686f8e0800000000000000
+      internalID: -1659991265307516055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3c98d45690ddaf0800000000000000
+      internalID: -370129263677291531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10c540d581c03150800000000000000
+      internalID: 5850388696423317535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81812e70816164d60800000000000000
+      internalID: 7874005290971174936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_54
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2ff3db09fd50b90800000000000000
+      internalID: -7276163810203798846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_55
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 687
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a12ea441fbb938a0800000000000000
+      internalID: -6324817556751375959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 696
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053fdc6dc37588af0800000000000000
+      internalID: -393969048581442736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_57
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 685
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e74c1de1bf31cd30800000000000000
+      internalID: 4449907940238575593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_58
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 614
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ea342a42be8d1b0800000000000000
+      internalID: -5631492791453110632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 647
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7976edc13edd34380800000000000000
+      internalID: -8988096463789725801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_60
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 645
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6d48593cfe53c80800000000000000
+      internalID: -8343499111327803737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 606
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2e18b338bdb16d0800000000000000
+      internalID: -3018577768536218913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_62
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 615
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5c2179c97b0d0e0800000000000000
+      internalID: -2247094330880506415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 626
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438eb7dde9d09b800800000000000000
+      internalID: 628548598966773812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_64
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 631
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c68d06298effda0800000000000000
+      internalID: -5908748470699135953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_65
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 609
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c325c3f629be50800800000000000000
+      internalID: 578127141350953532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_66
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 611
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef63773ce6590b00800000000000000
+      internalID: 795262381750185963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_67
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 609
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0942c72f90d64490800000000000000
+      internalID: -7762287525741049585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_68
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 609
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bd2d7a529215610800000000000000
+      internalID: 1608111783654120272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_69
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 608
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1d623bb250d3ca0800000000000000
+      internalID: -6035662240359198300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_70
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 609
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d6e785036745b0800000000000000
+      internalID: -5384225954092100636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_71
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 609
+        width: 161
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b88d7e9c2a1644b0800000000000000
+      internalID: -5456645119572866892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 616
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c86a3c4cb828530800000000000000
+      internalID: 3855797908194888708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_73
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 609
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eaa3e1df0ab6810800000000000000
+      internalID: 1759677088412642933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 494
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239ae3b2a4919d510800000000000000
+      internalID: 1574317351086500146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_75
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 492
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e9fb9cf8f26a930800000000000000
+      internalID: 4154060000907468317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 529
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f73699163fbaf5d0800000000000000
+      internalID: -3027897560374822927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 539
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c88b90b7b16a4d20800000000000000
+      internalID: 3263528321553238215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_78
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 545
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fb4d315f28f6780800000000000000
+      internalID: -8687581167063089262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_79
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 474
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156f36ed7ca32c00800000000000000
+      internalID: 874732409373811999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_80
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 473
+        width: 89
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19ee8c5c4b41b860800000000000000
+      internalID: 7543893642164758812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_81
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 418
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799f86d4649d4ae20800000000000000
+      internalID: 3361050117894896023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_82
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 418
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68d2f38ae6c38e10800000000000000
+      internalID: 2198819753625311342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_83
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 418
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20370db81df05a440800000000000000
+      internalID: 4946377158404633346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 418
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280eddf7fcea38930800000000000000
+      internalID: 4144348288337698946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_85
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 418
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b324bdeef17b38980800000000000000
+      internalID: -8537779120785112517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_86
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 417
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c67cef12c177f0800000000000000
+      internalID: -616498231606065613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_87
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 416
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499c93c28dabf45e0800000000000000
+      internalID: -1923113078246225516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_88
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 437
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ea60209c636c40800000000000000
+      internalID: 5504362535851844782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_89
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 416
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95911a40ecf5d390800000000000000
+      internalID: -7794045539849235045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_90
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 417
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d0e0569f29e38a0800000000000000
+      internalID: -6323455226941665900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 434
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10408be586af1b590800000000000000
+      internalID: -7660066165007842303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_92
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 437
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26241f6e0acb76c30800000000000000
+      internalID: 4352654964132233826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 415
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4412bca5ccc396d0800000000000000
+      internalID: -2984816978638531505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_94
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 417
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58cbbff5b01d9b50800000000000000
+      internalID: 6601451002660636766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_95
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 418
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d543138fdbe6bf0800000000000000
+      internalID: -329116849076413138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_96
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 418
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd68e06f300bd99b0800000000000000
+      internalID: -5071704074289772835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_97
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 419
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ca5f7790388b480800000000000000
+      internalID: -8883206188297769983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_98
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 419
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a69e3c042bdc820800000000000000
+      internalID: 2940202122977307199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_99
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 421
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9791be5408ff9b60800000000000000
+      internalID: 7755189781007538074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_100
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 438
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3920d370300dfc9d0800000000000000
+      internalID: -2751752135875165549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_101
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 418
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eac5cc5a3f03ce0800000000000000
+      internalID: -1427373188452667794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_102
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 418
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63765a2b4512faa00800000000000000
+      internalID: 769870708961797942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_103
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 419
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f9177f80ff421d0800000000000000
+      internalID: -3376293406644789457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_104
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 425
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4551fc6371a9ed540800000000000000
+      internalID: 5034630857941259604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_105
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 422
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70955c2f081409330800000000000000
+      internalID: 3715541714665298183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_106
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 421
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdeb4cbfcc349c0c0800000000000000
+      internalID: -4555035000432181541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_107
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 411
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b523bb20aad758e0800000000000000
+      internalID: -1704653552473659983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_108
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 416
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1f73fe80b804bf0800000000000000
+      internalID: -342120701190737490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_109
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 417
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f5d408820dc5280800000000000000
+      internalID: -9053132278551715959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_110
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 418
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877c552359a584880800000000000000
+      internalID: -8626545489387075720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_111
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 371
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df450279f75fbbe0800000000000000
+      internalID: -1459351025373327406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_112
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 373
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab6b23ff4be5bf0800000000000000
+      internalID: -333630314218341872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_113
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 371
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771d86a4e19194d40800000000000000
+      internalID: 5569010032108425591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_114
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 371
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47316b39b0e054b0800000000000000
+      internalID: -5453612062575872178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_115
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 373
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b25ede9e8991610800000000000000
+      internalID: 1592472073738201909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_116
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 372
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba217c9dedc10810800000000000000
+      internalID: 1729890152302586554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_117
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 375
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc982af1d8344ca0800000000000000
+      internalID: -6033635126273336107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_118
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 375
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334c61ff28f84320800000000000000
+      internalID: 2542554874448200502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_119
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 375
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394e6d146b25398d0800000000000000
+      internalID: -2840835997198523245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_120
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 377
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3241d0bbe5959eeb0800000000000000
+      internalID: -4690119273529666525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_121
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 376
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b57ee14d0a3a7d0800000000000000
+      internalID: -2908304101439218825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_122
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 376
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f24394a37237c3d0800000000000000
+      internalID: -3186522739077594379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_123
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 376
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3285df5b93c1ff600800000000000000
+      internalID: 504152717480777763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_124
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 377
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58a4438d81dfdae0800000000000000
+      internalID: -1522267743305029538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_125
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 378
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5c0a8c016342d00800000000000000
+      internalID: 946941267368003008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_126
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 385
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfd54e92adeb42c0800000000000000
+      internalID: -4446198924402368581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_127
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8931da9a555adc570800000000000000
+      internalID: 8488622660000748440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_128
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a0e40e2e8dbba90800000000000000
+      internalID: -7297000302286337531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_129
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cd18945017656a0800000000000000
+      internalID: -6460852347894375414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_130
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a14c39ebb48f7c0800000000000000
+      internalID: -4037393784042677759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_131
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812b9f761dd4d46a0800000000000000
+      internalID: -6463424328418872808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_132
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 378
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae07621d14cdcc5d0800000000000000
+      internalID: -3040813473141985046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_133
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 367
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf0cb796eb85ef50800000000000000
+      internalID: 6910083025774317497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_134
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 390
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c7e2b1904d9eaa0800000000000000
+      internalID: -6131136282112394106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_135
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 388
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40d9935393dd5930800000000000000
+      internalID: 4133692662712225870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_136
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 387
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb80321b415b39960800000000000000
+      internalID: 7607623296034736316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_137
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 366
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da3ed240f2d4f030800000000000000
+      internalID: 3527676337493785302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_138
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 365
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089987f43f222cfb0800000000000000
+      internalID: -4629099038577747584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_139
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 342
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba08d902a33425770800000000000000
+      internalID: 8598008555538055339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_140
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 351
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac5ca803fac82ab0800000000000000
+      internalID: -5032549438415151958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_141
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 297
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50a819f6d99031c0800000000000000
+      internalID: -4525948476926156709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_142
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 296
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cb08f45ca9066e0800000000000000
+      internalID: -1846305674988831602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_143
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 304
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f45c3403be15fd30800000000000000
+      internalID: 4464508359826756849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_144
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 305
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75899afa9c0d98110800000000000000
+      internalID: 1263770735108266071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_145
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 141
+        width: 194
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0e4b36288d7fc70800000000000000
+      internalID: 9004904034480742636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_146
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 110
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d05a71cceb70300800000000000000
+      internalID: 218352890730056980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_147
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 110
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176a7f93433b16e0800000000000000
+      internalID: -1865841255083514081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_148
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 111
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5ebe4b23b7eb9b0800000000000000
+      internalID: -5062473473403918910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_149
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 110
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3795a4c0e75de8ff0800000000000000
+      internalID: -31853409996220045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_150
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 77
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745320c819eb6a070800000000000000
+      internalID: 8117384910710388039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_151
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 111
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc23fd17d137dc10800000000000000
+      internalID: 2078184553044978938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_152
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 110
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86712385f5d7650800000000000000
+      internalID: 6232242291752790270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_153
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 77
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f6e26b1d85e9a20800000000000000
+      internalID: 3070989653641162621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_154
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 81
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47b8fc29589a79e0800000000000000
+      internalID: -1622817206939633843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_155
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 80
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72fa3c9fa7d6e0c0800000000000000
+      internalID: -4546709624543579524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_156
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 45
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b8dde2c6a00b3f0800000000000000
+      internalID: -887197666832970936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_157
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 45
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7928f13bd8a37f0800000000000000
+      internalID: -632036997224818753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_158
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 45
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9f865a42f202570800000000000000
+      internalID: 8439797536132757949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_sprites-and-tiles-for-you (1)_159
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 45
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ca4370bf5d05e80800000000000000
+      internalID: -8191812448052532073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hyptosis_sprites-and-tiles-for-you (1)_0: -8896081368797788207
+      hyptosis_sprites-and-tiles-for-you (1)_1: -4722296434207050952
+      hyptosis_sprites-and-tiles-for-you (1)_10: 94616176606939299
+      hyptosis_sprites-and-tiles-for-you (1)_100: -2751752135875165549
+      hyptosis_sprites-and-tiles-for-you (1)_101: -1427373188452667794
+      hyptosis_sprites-and-tiles-for-you (1)_102: 769870708961797942
+      hyptosis_sprites-and-tiles-for-you (1)_103: -3376293406644789457
+      hyptosis_sprites-and-tiles-for-you (1)_104: 5034630857941259604
+      hyptosis_sprites-and-tiles-for-you (1)_105: 3715541714665298183
+      hyptosis_sprites-and-tiles-for-you (1)_106: -4555035000432181541
+      hyptosis_sprites-and-tiles-for-you (1)_107: -1704653552473659983
+      hyptosis_sprites-and-tiles-for-you (1)_108: -342120701190737490
+      hyptosis_sprites-and-tiles-for-you (1)_109: -9053132278551715959
+      hyptosis_sprites-and-tiles-for-you (1)_11: 3873182257306299650
+      hyptosis_sprites-and-tiles-for-you (1)_110: -8626545489387075720
+      hyptosis_sprites-and-tiles-for-you (1)_111: -1459351025373327406
+      hyptosis_sprites-and-tiles-for-you (1)_112: -333630314218341872
+      hyptosis_sprites-and-tiles-for-you (1)_113: 5569010032108425591
+      hyptosis_sprites-and-tiles-for-you (1)_114: -5453612062575872178
+      hyptosis_sprites-and-tiles-for-you (1)_115: 1592472073738201909
+      hyptosis_sprites-and-tiles-for-you (1)_116: 1729890152302586554
+      hyptosis_sprites-and-tiles-for-you (1)_117: -6033635126273336107
+      hyptosis_sprites-and-tiles-for-you (1)_118: 2542554874448200502
+      hyptosis_sprites-and-tiles-for-you (1)_119: -2840835997198523245
+      hyptosis_sprites-and-tiles-for-you (1)_12: -3873599361594246534
+      hyptosis_sprites-and-tiles-for-you (1)_120: -4690119273529666525
+      hyptosis_sprites-and-tiles-for-you (1)_121: -2908304101439218825
+      hyptosis_sprites-and-tiles-for-you (1)_122: -3186522739077594379
+      hyptosis_sprites-and-tiles-for-you (1)_123: 504152717480777763
+      hyptosis_sprites-and-tiles-for-you (1)_124: -1522267743305029538
+      hyptosis_sprites-and-tiles-for-you (1)_125: 946941267368003008
+      hyptosis_sprites-and-tiles-for-you (1)_126: -4446198924402368581
+      hyptosis_sprites-and-tiles-for-you (1)_127: 8488622660000748440
+      hyptosis_sprites-and-tiles-for-you (1)_128: -7297000302286337531
+      hyptosis_sprites-and-tiles-for-you (1)_129: -6460852347894375414
+      hyptosis_sprites-and-tiles-for-you (1)_13: -4204768881276524895
+      hyptosis_sprites-and-tiles-for-you (1)_130: -4037393784042677759
+      hyptosis_sprites-and-tiles-for-you (1)_131: -6463424328418872808
+      hyptosis_sprites-and-tiles-for-you (1)_132: -3040813473141985046
+      hyptosis_sprites-and-tiles-for-you (1)_133: 6910083025774317497
+      hyptosis_sprites-and-tiles-for-you (1)_134: -6131136282112394106
+      hyptosis_sprites-and-tiles-for-you (1)_135: 4133692662712225870
+      hyptosis_sprites-and-tiles-for-you (1)_136: 7607623296034736316
+      hyptosis_sprites-and-tiles-for-you (1)_137: 3527676337493785302
+      hyptosis_sprites-and-tiles-for-you (1)_138: -4629099038577747584
+      hyptosis_sprites-and-tiles-for-you (1)_139: 8598008555538055339
+      hyptosis_sprites-and-tiles-for-you (1)_14: -6251149214886512779
+      hyptosis_sprites-and-tiles-for-you (1)_140: -5032549438415151958
+      hyptosis_sprites-and-tiles-for-you (1)_141: -4525948476926156709
+      hyptosis_sprites-and-tiles-for-you (1)_142: -1846305674988831602
+      hyptosis_sprites-and-tiles-for-you (1)_143: 4464508359826756849
+      hyptosis_sprites-and-tiles-for-you (1)_144: 1263770735108266071
+      hyptosis_sprites-and-tiles-for-you (1)_145: 9004904034480742636
+      hyptosis_sprites-and-tiles-for-you (1)_146: 218352890730056980
+      hyptosis_sprites-and-tiles-for-you (1)_147: -1865841255083514081
+      hyptosis_sprites-and-tiles-for-you (1)_148: -5062473473403918910
+      hyptosis_sprites-and-tiles-for-you (1)_149: -31853409996220045
+      hyptosis_sprites-and-tiles-for-you (1)_15: -5757667299509181167
+      hyptosis_sprites-and-tiles-for-you (1)_150: 8117384910710388039
+      hyptosis_sprites-and-tiles-for-you (1)_151: 2078184553044978938
+      hyptosis_sprites-and-tiles-for-you (1)_152: 6232242291752790270
+      hyptosis_sprites-and-tiles-for-you (1)_153: 3070989653641162621
+      hyptosis_sprites-and-tiles-for-you (1)_154: -1622817206939633843
+      hyptosis_sprites-and-tiles-for-you (1)_155: -4546709624543579524
+      hyptosis_sprites-and-tiles-for-you (1)_156: -887197666832970936
+      hyptosis_sprites-and-tiles-for-you (1)_157: -632036997224818753
+      hyptosis_sprites-and-tiles-for-you (1)_158: 8439797536132757949
+      hyptosis_sprites-and-tiles-for-you (1)_159: -8191812448052532073
+      hyptosis_sprites-and-tiles-for-you (1)_16: -3699364797640551443
+      hyptosis_sprites-and-tiles-for-you (1)_17: -3031256130852140161
+      hyptosis_sprites-and-tiles-for-you (1)_18: 4111764231739692542
+      hyptosis_sprites-and-tiles-for-you (1)_19: -2219341945878977180
+      hyptosis_sprites-and-tiles-for-you (1)_2: 8720492024907763522
+      hyptosis_sprites-and-tiles-for-you (1)_20: -8785656291716150108
+      hyptosis_sprites-and-tiles-for-you (1)_21: 7101165852899808461
+      hyptosis_sprites-and-tiles-for-you (1)_22: 3923092837053228844
+      hyptosis_sprites-and-tiles-for-you (1)_23: -9135800627652239254
+      hyptosis_sprites-and-tiles-for-you (1)_24: 1767768898059187981
+      hyptosis_sprites-and-tiles-for-you (1)_25: 9049383346040109685
+      hyptosis_sprites-and-tiles-for-you (1)_26: -8882930340360685223
+      hyptosis_sprites-and-tiles-for-you (1)_27: 3487383421752576450
+      hyptosis_sprites-and-tiles-for-you (1)_28: 8536019984511969328
+      hyptosis_sprites-and-tiles-for-you (1)_29: 3658682479160225204
+      hyptosis_sprites-and-tiles-for-you (1)_3: -3970018983482842277
+      hyptosis_sprites-and-tiles-for-you (1)_30: -419050167366525680
+      hyptosis_sprites-and-tiles-for-you (1)_31: -3647488321519252725
+      hyptosis_sprites-and-tiles-for-you (1)_32: 535154297018593467
+      hyptosis_sprites-and-tiles-for-you (1)_33: 8402277280238745554
+      hyptosis_sprites-and-tiles-for-you (1)_34: 896665588613220040
+      hyptosis_sprites-and-tiles-for-you (1)_35: -1673322398548003154
+      hyptosis_sprites-and-tiles-for-you (1)_36: -5891434318018961078
+      hyptosis_sprites-and-tiles-for-you (1)_37: 2626535792039498312
+      hyptosis_sprites-and-tiles-for-you (1)_38: 3367329898227746697
+      hyptosis_sprites-and-tiles-for-you (1)_39: 4843010004272691864
+      hyptosis_sprites-and-tiles-for-you (1)_4: -4984241216107418962
+      hyptosis_sprites-and-tiles-for-you (1)_40: -6384785703473453272
+      hyptosis_sprites-and-tiles-for-you (1)_41: -1840365867792238256
+      hyptosis_sprites-and-tiles-for-you (1)_42: -3689258581080693037
+      hyptosis_sprites-and-tiles-for-you (1)_43: 6740743720379672382
+      hyptosis_sprites-and-tiles-for-you (1)_44: -465170591861073440
+      hyptosis_sprites-and-tiles-for-you (1)_45: -4617581931807671489
+      hyptosis_sprites-and-tiles-for-you (1)_46: -6582120460002322625
+      hyptosis_sprites-and-tiles-for-you (1)_47: -1329244929870703825
+      hyptosis_sprites-and-tiles-for-you (1)_48: -3226773543292464043
+      hyptosis_sprites-and-tiles-for-you (1)_49: 132228842321587403
+      hyptosis_sprites-and-tiles-for-you (1)_5: 5560752868019690562
+      hyptosis_sprites-and-tiles-for-you (1)_50: -1659991265307516055
+      hyptosis_sprites-and-tiles-for-you (1)_51: -370129263677291531
+      hyptosis_sprites-and-tiles-for-you (1)_52: 5850388696423317535
+      hyptosis_sprites-and-tiles-for-you (1)_53: 7874005290971174936
+      hyptosis_sprites-and-tiles-for-you (1)_54: -7276163810203798846
+      hyptosis_sprites-and-tiles-for-you (1)_55: -6324817556751375959
+      hyptosis_sprites-and-tiles-for-you (1)_56: -393969048581442736
+      hyptosis_sprites-and-tiles-for-you (1)_57: 4449907940238575593
+      hyptosis_sprites-and-tiles-for-you (1)_58: -5631492791453110632
+      hyptosis_sprites-and-tiles-for-you (1)_59: -8988096463789725801
+      hyptosis_sprites-and-tiles-for-you (1)_6: 8109461263639202025
+      hyptosis_sprites-and-tiles-for-you (1)_60: -8343499111327803737
+      hyptosis_sprites-and-tiles-for-you (1)_61: -3018577768536218913
+      hyptosis_sprites-and-tiles-for-you (1)_62: -2247094330880506415
+      hyptosis_sprites-and-tiles-for-you (1)_63: 628548598966773812
+      hyptosis_sprites-and-tiles-for-you (1)_64: -5908748470699135953
+      hyptosis_sprites-and-tiles-for-you (1)_65: 578127141350953532
+      hyptosis_sprites-and-tiles-for-you (1)_66: 795262381750185963
+      hyptosis_sprites-and-tiles-for-you (1)_67: -7762287525741049585
+      hyptosis_sprites-and-tiles-for-you (1)_68: 1608111783654120272
+      hyptosis_sprites-and-tiles-for-you (1)_69: -6035662240359198300
+      hyptosis_sprites-and-tiles-for-you (1)_7: -734651825368570214
+      hyptosis_sprites-and-tiles-for-you (1)_70: -5384225954092100636
+      hyptosis_sprites-and-tiles-for-you (1)_71: -5456645119572866892
+      hyptosis_sprites-and-tiles-for-you (1)_72: 3855797908194888708
+      hyptosis_sprites-and-tiles-for-you (1)_73: 1759677088412642933
+      hyptosis_sprites-and-tiles-for-you (1)_74: 1574317351086500146
+      hyptosis_sprites-and-tiles-for-you (1)_75: 4154060000907468317
+      hyptosis_sprites-and-tiles-for-you (1)_76: -3027897560374822927
+      hyptosis_sprites-and-tiles-for-you (1)_77: 3263528321553238215
+      hyptosis_sprites-and-tiles-for-you (1)_78: -8687581167063089262
+      hyptosis_sprites-and-tiles-for-you (1)_79: 874732409373811999
+      hyptosis_sprites-and-tiles-for-you (1)_8: -4744254403644682019
+      hyptosis_sprites-and-tiles-for-you (1)_80: 7543893642164758812
+      hyptosis_sprites-and-tiles-for-you (1)_81: 3361050117894896023
+      hyptosis_sprites-and-tiles-for-you (1)_82: 2198819753625311342
+      hyptosis_sprites-and-tiles-for-you (1)_83: 4946377158404633346
+      hyptosis_sprites-and-tiles-for-you (1)_84: 4144348288337698946
+      hyptosis_sprites-and-tiles-for-you (1)_85: -8537779120785112517
+      hyptosis_sprites-and-tiles-for-you (1)_86: -616498231606065613
+      hyptosis_sprites-and-tiles-for-you (1)_87: -1923113078246225516
+      hyptosis_sprites-and-tiles-for-you (1)_88: 5504362535851844782
+      hyptosis_sprites-and-tiles-for-you (1)_89: -7794045539849235045
+      hyptosis_sprites-and-tiles-for-you (1)_9: 7174509456230686123
+      hyptosis_sprites-and-tiles-for-you (1)_90: -6323455226941665900
+      hyptosis_sprites-and-tiles-for-you (1)_91: -7660066165007842303
+      hyptosis_sprites-and-tiles-for-you (1)_92: 4352654964132233826
+      hyptosis_sprites-and-tiles-for-you (1)_93: -2984816978638531505
+      hyptosis_sprites-and-tiles-for-you (1)_94: 6601451002660636766
+      hyptosis_sprites-and-tiles-for-you (1)_95: -329116849076413138
+      hyptosis_sprites-and-tiles-for-you (1)_96: -5071704074289772835
+      hyptosis_sprites-and-tiles-for-you (1)_97: -8883206188297769983
+      hyptosis_sprites-and-tiles-for-you (1)_98: 2940202122977307199
+      hyptosis_sprites-and-tiles-for-you (1)_99: 7755189781007538074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
