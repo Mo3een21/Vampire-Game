@@ -111,6 +111,6 @@ Collect keys and coins, open chests for points, avoid detection and traps, then 
 - **Game Version:** 1.0  
 - **Last Update:** July 31, 2025  
 - **Contact:** moeen.2001@gmail.com  
-- **Trailer & Demo:** https://youtu.be/your_game_trailer  
+- **Trailer & Demo:** [https://youtu.be/your_game_trailer](https://youtu.be/-ZI_x8ZtC5U)  
 
 Enjoy Vampire Game—master the shadows and become the ultimate stealth vampire!
