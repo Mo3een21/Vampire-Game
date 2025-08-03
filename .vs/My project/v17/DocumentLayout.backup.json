@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\TrapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TrapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LevelEndManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LevelEndManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\TimerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TimerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\GameOverManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameOverManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\MenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LevelEndPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LevelEndPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LevelResultController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LevelResultController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\HUDController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HUDController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\CoinPickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CoinPickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\ChestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ChestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\FieldOfView2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FieldOfView2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\GameOverManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameOverManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\DoorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DoorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,16 +75,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LeverController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\ChestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ChestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\UIButtonEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIButtonEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\MenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,36 +86,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAYwGgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\PauseMenu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvygAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T08:51:56.866Z",
+              "WhenOpened": "2025-08-02T20:38:01.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "TrapController.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\TrapController.cs",
+              "RelativeDocumentMoniker": "Assets\\TrapController.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\TrapController.cs",
+              "RelativeToolTip": "Assets\\TrapController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv3EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:44:06.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelEndManager.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LevelEndManager.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelEndManager.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LevelEndManager.cs",
+              "RelativeToolTip": "Assets\\LevelEndManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:25:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimerController.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\TimerController.cs",
+              "RelativeDocumentMoniker": "Assets\\TimerController.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\TimerController.cs",
+              "RelativeToolTip": "Assets\\TimerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:15:28.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GameOverManager.cs",
               "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\GameOverManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
               "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\GameOverManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T08:42:36.545Z"
+              "WhenOpened": "2025-07-29T08:42:36.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuController.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:11:31.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LevelEndPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelEndPoint.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LevelEndPoint.cs",
+              "RelativeToolTip": "Assets\\LevelEndPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:23:37.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HUDController.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\HUDController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUDController.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\HUDController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUDController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T17:32:37.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevelResultController.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LevelResultController.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelResultController.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LevelResultController.cs",
+              "RelativeToolTip": "Assets\\LevelResultController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T17:40:10.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoinPickup.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\CoinPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\CoinPickup.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\CoinPickup.cs",
+              "RelativeToolTip": "Assets\\CoinPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:45:49.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "DetectionBarController.cs",
               "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\DetectionBarController.cs",
               "RelativeDocumentMoniker": "Assets\\DetectionBarController.cs",
@@ -95,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "FieldOfView2D.cs",
               "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\FieldOfView2D.cs",
               "RelativeDocumentMoniker": "Assets\\FieldOfView2D.cs",
@@ -103,12 +245,35 @@
               "RelativeToolTip": "Assets\\FieldOfView2D.cs",
               "ViewState": "AgIAAKQAAAAAAAAAAAAcwMEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T12:47:04.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T12:47:04.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "ChestController.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\ChestController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChestController.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\ChestController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChestController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:56:24.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:51:56.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "EnemyMovement.cs",
               "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyMovement.cs",
@@ -116,12 +281,11 @@
               "RelativeToolTip": "Assets\\EnemyMovement.cs",
               "ViewState": "AgIAANoAAAAAAAAAAAAYwOgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T12:05:08.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T12:05:08.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "PlayerInventory.cs",
               "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\PlayerInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInventory.cs",
@@ -133,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "LeverController.cs",
               "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\LeverController.cs",
               "RelativeDocumentMoniker": "Assets\\LeverController.cs",
@@ -145,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "DoorController.cs",
               "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\DoorController.cs",
               "RelativeDocumentMoniker": "Assets\\DoorController.cs",
@@ -157,19 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ChestController.cs",
-              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\ChestController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ChestController.cs",
-              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\ChestController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ChestController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T12:56:24.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "UIButtonEffect.cs",
               "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\UIButtonEffect.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIButtonEffect.cs",
@@ -178,18 +330,6 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T11:11:58.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\MenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuController.cs",
-              "ToolTip": "C:\\Users\\moeen\\Desktop\\4th Year\\2nd Semester\\3D Games Course\\My project\\Assets\\Scripts\\MenuController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MenuController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T10:11:31.678Z"
             }
           ]
         }
